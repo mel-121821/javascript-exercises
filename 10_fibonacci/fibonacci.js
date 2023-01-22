@@ -11,6 +11,8 @@
 
 // https://flexiple.com/javascript/get-last-array-element-javascript/
 
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sign
+
 
 const fibonacci = function(num) {
     if (Math.sign(num) === -1) {
